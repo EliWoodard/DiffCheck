@@ -17,4 +17,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-This program was created by [Your Name].
+This program was created by Eli Woodard.
