@@ -9,8 +9,8 @@ import java.util.Map;
 public class Main {
         
     public static void main(String[] args) {
-        String list1File = "Inputted-Lists/List1.txt";
-        String list2File = "Inputted-Lists/List2.txt";
+        String list1File = "Inputted-Lists/List1.txt"; // Main list or accounts that should be in Google Group
+        String list2File = "Inputted-Lists/List2.txt"; // Group list or accounts that are in the Google Group
         String outputFile = "Outputted-List/emails-not-added.txt";
         ArrayList<String> list1 = new ArrayList<>();
         ArrayList<String> list2 = new ArrayList<>();

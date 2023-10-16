@@ -10,11 +10,3 @@ This Java program compares two lists of emails and outputs a list of emails that
 4. View the results in emails-not-added.txt.
 
 Note: The program removes any white space and converts all emails to lowercase before comparing.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Acknowledgments
-
-This program was created by Eli Woodard.
